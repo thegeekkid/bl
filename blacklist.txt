@@ -1,0 +1,12 @@
+180.96.14.25;cyberterrorist_connection
+106.75.3.52;cyberterrorist_connection
+110.249.212.46;cyberterrorist_connection
+5.188.210.101;cyberterrorist_connection
+39.135.1.163;cyberterrorist_connection
+182.61.179.214;cyberterrorist_connection
+112.87.43.113;cyberterrorist_connection
+62.173.154.106;cyberterrorist_connection
+217.26.162.115;cyberterrorist_connection
+110.249.212.46;cyberterrorist_connection
+106.75.103.138;cyberterrorist_connection
+36.102.217.218;cyberterrorist_connection
