@@ -12,3 +12,4 @@
 170.130.187.50;honeypotVNChit
 36.102.217.218;cyberterrorist_connection
 185.56.81.41;honeypotVNChit
+185.244.25.107;honeypotTelnetHit
