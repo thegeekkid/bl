@@ -22,3 +22,7 @@
 198.108.66.0/23;Censys
 46.234.125.89;Questionable_pingsweeper
 85.204.116.111;Observed_in_trojan_via_sandbox
+36.36.201.62;honeypotICMPhit-China
+170.130.187.10;honeypotVNChit
+58.17.252.227;honeypotICMPhit-China
+222.211.205.230;honeypotICMPhit-China
