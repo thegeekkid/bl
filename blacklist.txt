@@ -15,3 +15,9 @@
 185.244.25.107;honeypotTelnetHit
 54.215.212.30;honeypotVNChit
 222.186.46.48;honeypotVNChit
+185.254.122.56;honeypotVNChit
+188.222.167.196;honeypotTelnetHit
+172.105.90.152;honeypotVNChit
+1.4.172.152;honeypotVNChit
+198.108.66.0/23;Censys
+46.234.125.89;Questionable_pingsweeper
