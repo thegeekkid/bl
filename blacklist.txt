@@ -26,3 +26,4 @@
 170.130.187.10;honeypotVNChit
 58.17.252.227;honeypotICMPhit-China
 222.211.205.230;honeypotICMPhit-China
+45.171.46.150;honeypotICMPhit-Brazil
