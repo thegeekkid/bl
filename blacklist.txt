@@ -21,3 +21,4 @@
 1.4.172.152;honeypotVNChit
 198.108.66.0/23;Censys
 46.234.125.89;Questionable_pingsweeper
+85.204.116.111;Observed_in_trojan_via_sandbox
