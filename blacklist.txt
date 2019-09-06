@@ -32,3 +32,4 @@
 93.114.86.226;cyberterrorist_connection
 60.191.52.254;cyberterrorist_connection
 92.53.65.144;honeypotVNChit-Russia
+134.73.55.177;honeypotVNChit
