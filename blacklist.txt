@@ -39,3 +39,4 @@
 71.6.232.5;honeypotVNChit
 178.156.202.212/24;honeypotVNChit-Romania
 145.249.106.177;honeypotVNChit-Netherlands
+43.225.192.18;cyberterrorist_connection
