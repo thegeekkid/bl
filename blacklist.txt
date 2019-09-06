@@ -42,3 +42,4 @@
 43.225.192.18;cyberterrorist_connection
 115.23.68.239;honeypotVNChit-Korea
 178.124.167.184;honeypotVNChit-compromised_server-Belarus
+104.140.188.46;honeypotVNChit
