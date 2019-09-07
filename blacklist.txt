@@ -46,3 +46,5 @@
 178.73.215.171;honeypotVNChit
 89.248.172.110;honeypotVNChit
 221.229.204.12;honeypotVNChit
+
+61.184.109.254;honeypotVNChit
