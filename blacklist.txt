@@ -44,3 +44,4 @@
 178.124.167.184;honeypotVNChit-compromised_server-Belarus
 104.140.188.46;honeypotVNChit
 178.73.215.171honeypotVNChit
+89.248.172.110honeypotVNChit
