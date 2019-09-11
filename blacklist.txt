@@ -100,3 +100,4 @@
 192.210.155.112;Multiple_bruteforce_attempts
 92.222.208.174;Multiple_bruteforce_attempts
 207.210.200.147;Multiple_bruteforce_attempts
+194.147.35.218;Multiple_bruteforce_attempts
