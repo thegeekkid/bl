@@ -94,3 +94,4 @@
 62.173.140.158;cyberterrorist_connection
 178.33.49.219;Multiple_bruteforce_attempts
 188.254.38.186;Multiple_bruteforce_attempts
+162.213.249.220;Multiple_bruteforce_attempts
