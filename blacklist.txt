@@ -122,3 +122,4 @@
 178.156.202.179;honeypotVNChit
 178.156.202.212;honeypotVNChit
 178.156.202.193;honeypotVNChit
+178.156.202.253;honeypotVNChit
