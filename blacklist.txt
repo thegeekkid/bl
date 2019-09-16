@@ -133,7 +133,6 @@
 86.57.237.201;cyberterrorist_connection
 106.75.85.37;cyberterrorist_connection
 120.77.251.37;cyberterrorist_connection
-60.191.52.254;cyberterrorist_connection
 37.230.241.62;cyberterrorist_connection
 62.173.145.108;cyberterrorist_connection
 111.7.100.20;cyberterrorist_connection
