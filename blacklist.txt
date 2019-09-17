@@ -158,3 +158,4 @@
 89.248.167.131;honeypotVNChit
 218.60.67.17;honeypotVNChit
 80.85.86.175;honeypotTelnetHit
+34.77.183.242;honeypotVNChit
