@@ -178,3 +178,4 @@
 59.57.13.172;honeypotVNChit
 80.82.78.104;honeypotVNChit
 75.144.6.17;honeypotVNChit
+198.108.66.66;honeypotVNChit
