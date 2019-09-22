@@ -202,3 +202,4 @@
 114.79.172.42;cyberterrorist_connection
 62.173.154.20;cyberterrorist_connection
 163.172.76.164;honeypotVNChit
+162.244.177.30;honeypotVNChit
