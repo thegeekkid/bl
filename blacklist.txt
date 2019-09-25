@@ -150,7 +150,6 @@
 104.140.188.50;honeypotVNChit
 138.68.27.253;honeypotVNChit
 185.254.122.32;honeypotVNChit
-
 170.130.187.34;honeypotVNChit
 52.176.146.165;honeypotVNChit
 83.97.20.191;honeypotVNChit
@@ -250,4 +249,3 @@
 27.145.211.157;honeypotVNChit
 67.21.36.5;honeypotVNChit
 104.140.188.2;honeypotVNChit
-104.200.153.102;Other
