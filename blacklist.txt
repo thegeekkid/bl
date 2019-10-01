@@ -288,3 +288,4 @@
 157.230.127.140;honeypotVNChit
 184.105.139.86;honeypotVNChit
 107.6.171.134;honeypotVNChit
+208.52.154.124;honeypotVNChit
