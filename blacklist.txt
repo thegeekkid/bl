@@ -301,3 +301,4 @@
 104.206.128.26;honeypotVNChit
 208.100.26.228;honeypotVNChit
 154.118.228.46;honeypotVNChit
+74.82.47.32;honeypotVNChit
