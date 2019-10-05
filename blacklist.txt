@@ -306,3 +306,4 @@
 104.140.188.42;honeypotFTPhit
 134.209.86.43;honeypotVNChit
 80.82.65.74;honeypotVNChit
+112.48.132.166;Multiple_bruteforce_attempts
