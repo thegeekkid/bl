@@ -355,3 +355,4 @@
 122.228.19.79;honeypotVNChit
 184.105.247.208;honeypotVNChit
 184.105.247.195;honeypotFTPhit
+104.140.188.14;honeypotVNChit
