@@ -401,3 +401,4 @@
 5.9.119.24;honeypotVNChit
 45.142.212.178;honeypotVNChit
 74.82.47.57;honeypotVNChit
+66.45.242.194;honeypotVNChit
