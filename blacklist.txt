@@ -479,3 +479,4 @@
 159.203.201.23;honeypotVNChit
 185.219.133.125;honeypotVNChit
 74.82.47.30;honeypotTelnetHit
+216.218.206.122;honeypotVNChit
