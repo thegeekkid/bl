@@ -481,3 +481,4 @@
 74.82.47.30;honeypotTelnetHit
 216.218.206.122;honeypotVNChit
 185.115.178.194;honeypotVNChit
+208.100.26.241;honeypotVNChit
