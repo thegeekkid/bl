@@ -36,7 +36,7 @@
 85.209.0.120;honeypotVNChit-Russia
 38.102.172.16;honeypotVNChit
 71.6.232.5;honeypotVNChit
-178.156.202.212/24;honeypotVNChit-Romania
+178.156.202.0/24;honeypotVNChit-Romania
 145.249.106.177;honeypotVNChit-Netherlands
 43.225.192.18;cyberterrorist_connection
 115.23.68.239;honeypotVNChit-Korea
@@ -248,7 +248,6 @@
 27.145.211.157;honeypotVNChit
 67.21.36.5;honeypotVNChit
 104.140.188.2;honeypotVNChit
-
 45.67.228.225;honeypotVNChit
 159.203.201.147;honeypotVNChit
 185.207.31.74;honeypotVNChit
