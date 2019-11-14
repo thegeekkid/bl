@@ -511,3 +511,5 @@
 212.39.127.178;honeypotVNChit
 83.97.20.46;honeypotVNChit
 63.250.35.147;compromisedServer_phishingAttack
+
+92.119.160.67;honeypotVNChit
