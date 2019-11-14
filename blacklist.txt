@@ -118,16 +118,6 @@
 198.108.66.16;honeypotVNChit
 159.203.197.14;honeypotVNChit
 93.174.93.206;honeypotVNChit
-178.156.202.179;honeypotVNChit
-178.156.202.212;honeypotVNChit
-178.156.202.193;honeypotVNChit
-178.156.202.253;honeypotVNChit
-178.156.202.224;honeypotVNChit
-178.156.202.208;honeypotVNChit
-178.156.202.213;honeypotVNChit
-178.156.202.226;honeypotVNChit
-178.156.202.211;honeypotVNChit
-178.156.202.235;honeypotVNChit
 123.108.50.205;cyberterrorist_connection
 86.57.237.201;cyberterrorist_connection
 106.75.85.37;cyberterrorist_connection
