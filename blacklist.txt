@@ -7,7 +7,6 @@
 112.87.43.113;cyberterrorist_connection
 62.173.154.106;cyberterrorist_connection
 217.26.162.115;cyberterrorist_connection
-110.249.212.46;cyberterrorist_connection
 106.75.103.138;cyberterrorist_connection
 170.130.187.50;honeypotVNChit
 36.102.217.218;cyberterrorist_connection
@@ -511,7 +510,6 @@
 212.39.127.178;honeypotVNChit
 83.97.20.46;honeypotVNChit
 63.250.35.147;compromisedServer_phishingAttack
-
 92.119.160.67;honeypotVNChit
 82.102.173.73;honeypotVNChit
 74.82.47.9;honeypotVNChit
