@@ -347,7 +347,6 @@
 185.176.27.162;honeypotVNChit
 34.76.217.251;honeypotVNChit
 104.140.188.22;honeypotVNChit
-112.179.242.281;Multiple_bruteforce_attempts
 218.206.132.194;Multiple_bruteforce_attempts
 222.223.56.116;Multiple_bruteforce_attempts
 61.163.231.150;Multiple_bruteforce_attempts
