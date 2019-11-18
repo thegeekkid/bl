@@ -518,3 +518,4 @@
 5.8.10.202;cyberterrorist_connection
 223.71.167.62;cyberterrorist_connection
 211.150.70.18;cyberterrorist_connection
+150.109.5.248;honeypotVNChit
