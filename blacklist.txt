@@ -549,3 +549,4 @@
 27.59.43.3;honeypotVNChit
 184.105.139.93;honeypotVNChit
 91.134.185.85;honeypotVNChit
+60.191.20.213;cyberterrorist_connection
