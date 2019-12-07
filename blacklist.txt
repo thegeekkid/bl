@@ -601,3 +601,4 @@
 79.139.229.18;cyberterrorist_connection
 183.193.234.138;cyberterrorist_connection
 202.100.168.150;cyberterrorist_connection
+61.164.244.239;honeypotVNChit
