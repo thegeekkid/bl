@@ -618,3 +618,4 @@
 216.218.206.101;honeypotVNChit
 74.82.47.38;honeypotVNChit
 182.125.172.9;honeypotTelnetHit
+182.30.105.180;honeypotVNChit
