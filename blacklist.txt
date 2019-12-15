@@ -635,3 +635,4 @@
 159.203.201.236;honeypotVNChit
 185.53.88.5;honeypotVNChit
 184.105.247.215;honeypotVNChit
+96.233.201.154;honeypotVNChit
