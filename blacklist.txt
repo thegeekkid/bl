@@ -677,3 +677,4 @@
 184.105.247.251;honeypotFTPhit
 159.203.201.214;honeypotVNChit
 89.248.162.172;honeypotVNChit
+185.142.236.35;honeypotVNChit
