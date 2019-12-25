@@ -681,3 +681,4 @@
 184.105.139.100;honeypotVNChit
 103.89.91.29;honeypotVNChit
 185.209.0.51;honeypotVNChit
+139.28.218.34;honeypotVNChit
