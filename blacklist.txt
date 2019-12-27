@@ -699,3 +699,4 @@
 51.158.24.118;Other
 51.15.19.109;Other
 35.231.215.178;honeypotVNChit
+49.145.225.219;honeypotVNChit
