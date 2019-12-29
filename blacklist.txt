@@ -712,3 +712,5 @@
 58.210.85.22;cyberterrorist_connection
 196.2.9.177;cyberterrorist_connection
 220.182.47.116;cyberterrorist_connection
+222.186.19.221;cyberterrorist_connection
+43.226.34.249;cyberterrorist_connection
