@@ -749,3 +749,4 @@
 184.105.139.75;honeypotVNChit
 159.203.201.15;honeypotVNChit
 184.105.139.105;honeypotVNChit
+185.12.178.11;honeypotVNChit
