@@ -803,3 +803,4 @@
 157.52.252.154;honeypotVNChit
 103.223.122.23;honeypotVNChit
 23.227.194.156;honeypotVNChit
+216.218.206.93;honeypotVNChit
