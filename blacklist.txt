@@ -831,3 +831,4 @@
 142.0.204.220;Other
 198.143.155.140;honeypotVNChit
 192.243.111.131;honeypotVNChit
+170.130.187.54;honeypotVNChit
