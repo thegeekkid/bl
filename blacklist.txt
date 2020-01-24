@@ -838,3 +838,4 @@
 90.104.12.7;honeypotVNChit
 103.79.143.225;honeypotVNChit
 159.203.201.231;honeypotVNChit
+89.248.168.87;honeypotVNChit
