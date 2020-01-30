@@ -865,3 +865,4 @@
 89.248.162.131;honeypotVNChit
 180.163.220.43;cyberterrorist_connection
 42.236.10.109;cyberterrorist_connection
+42.236.10.122;cyberterrorist_connection
