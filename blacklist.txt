@@ -882,3 +882,4 @@
 162.243.131.201;honeypotVNChit
 157.52.252.153;honeypotVNChit
 184.105.247.199;honeypotVNChit
+81.88.221.227;cyberterrorist_connection
