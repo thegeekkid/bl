@@ -927,3 +927,4 @@
 47.75.44.15;honeypotVNChit
 51.15.139.10;Other
 74.82.47.42;honeypotVNChit
+192.3.178.162;honeypotVNChit
