@@ -976,3 +976,4 @@
 104.152.52.23;honeypotVNChit
 104.152.52.26;honeypotVNChit
 104.152.52.27;honeypotVNChit
+104.152.52.30;honeypotVNChit
