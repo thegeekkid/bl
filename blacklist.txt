@@ -992,3 +992,4 @@
 128.14.128.181;honeypotVNChit
 54.36.185.124;honeypotVNChit
 92.118.37.88;honeypotVNChit
+157.43.69.148;honeypotVNChit
