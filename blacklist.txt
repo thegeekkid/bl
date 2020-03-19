@@ -1045,3 +1045,4 @@
 185.156.73.65;honeypotVNChit
 211.20.109.47;honeypotVNChit
 167.99.83.200;Other: Phishing_landing_page
+51.15.208.114;Other: Ransomware_Activity
