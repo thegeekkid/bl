@@ -1047,3 +1047,4 @@
 167.99.83.200;Other: Phishing_landing_page
 51.15.208.114;Other: Ransomware_Activity
 89.33.246.107;Other: Ransomware_Activity
+5.2.79.97;Other: Ransomware_activity
