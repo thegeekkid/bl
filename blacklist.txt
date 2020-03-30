@@ -1087,3 +1087,4 @@
 82.0.114.111;honeypotVNChit
 35.204.173.195;honeypotVNChit
 89.41.176.211;honeypotVNChit
+192.241.239.94;honeypotVNChit
