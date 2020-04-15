@@ -1143,3 +1143,4 @@
 91.132.1.124;honeypotVNChit
 47.254.92.217;Other: Phishing_site
 180.214.239.71;honeypotVNChit
+94.177.230.111;honeypotVNChit
