@@ -1170,3 +1170,4 @@
 103.145.12.65;cyberterrorist_connection
 185.242.5.46;honeypotVNChit
 192.241.238.235;honeypotVNChit
+49.36.78.209;honeypotVNChit
