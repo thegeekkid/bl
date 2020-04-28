@@ -1190,3 +1190,4 @@
 51.178.78.154;honeypotVNChit
 195.54.160.254;honeypotVNChit
 46.166.173.86;honeypotVNChit
+148.72.28.52;Other: Phishing_site
