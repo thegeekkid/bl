@@ -1209,3 +1209,4 @@
 162.243.138.125;honeypotVNChit
 94.215.154.128;honeypotVNChit
 77.36.18.186;honeypotVNChit
+80.82.78.87;honeypotVNChit
