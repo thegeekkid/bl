@@ -1245,3 +1245,4 @@
 188.157.136.79;cyberterrorist_connection
 187.49.48.60;cyberterrorist_connection
 183.136.225.44;cyberterrorist_connection
+95.215.100.194;cyberterrorist_connection
