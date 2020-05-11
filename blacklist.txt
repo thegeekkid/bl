@@ -1337,3 +1337,4 @@
 45.13.93.82;cyberterrorist_connection
 188.166.3.89;cyberterrorist_connection
 49.233.180.152;cyberterrorist_connection
+77.68.118.208;Other: Password_Spraying_Attack
