@@ -1282,3 +1282,4 @@
 162.243.137.150;honeypotVNChit
 200.2.142.51;honeypotVNChit
 195.123.225.9;honeypotVNChit
+89.248.172.16;honeypotVNChit
