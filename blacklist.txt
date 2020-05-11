@@ -1341,3 +1341,4 @@
 47.108.220.195;Other: Password_Spraying_Attack
 178.176.174.51;Other: Password_Spraying_Attack
 195.181.166.143;cyberterrorist_connection
+178.79.146.177;honeypotVNChit
