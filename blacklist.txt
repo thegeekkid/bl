@@ -1368,3 +1368,4 @@
 128.14.209.246;honeypotVNChit
 184.105.247.212;honeypotVNChit
 62.210.119.142;Other: CryptoBotnetCNC
+82.76.255.62;Other: CryptoBotnetCNC
