@@ -1371,3 +1371,4 @@
 82.76.255.62;Other: CryptoBotnetCNC
 83.97.20.34;cyberterrorist_connection
 45.227.255.224;cyberterrorist_connection
+190.85.145.162;cyberterrorist_connection
