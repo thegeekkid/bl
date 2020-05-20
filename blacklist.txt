@@ -1393,3 +1393,4 @@
 196.52.43.100;cyberterrorist_connection
 196.52.43.53;cyberterrorist_connection
 172.105.89.161;cyberterrorist_connection
+92.246.84.187;cyberterrorist_connection
