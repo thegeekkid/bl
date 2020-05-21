@@ -1434,3 +1434,4 @@
 45.182.17.207;cyberterrorist_connection
 139.180.186.110;honeypotRDPhit
 139.180.188.224;honeypotRDPhit
+149.28.144.149;honeypotRDPhit
