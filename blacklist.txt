@@ -1455,3 +1455,4 @@
 85.33.53.9;honeypotRDPhit
 92.119.160.177;honeypotRDPhit
 185.176.222.39;honeypotRDPhit
+194.61.27.248;honeypotRDPhit
