@@ -1535,3 +1535,4 @@
 203.252.137.115;honeypotRDPhit
 23.95.89.73;honeypotRDPhit
 172.104.5.76;honeypotVNChit
+192.115.200.141;honeypotRDPhit
