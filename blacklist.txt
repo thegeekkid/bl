@@ -1661,3 +1661,4 @@
 184.105.247.244;honeypotVNChit
 45.56.75.41;honeypotVNChit
 52.41.164.49;honeypotRDPhit
+8.208.77.107;honeypotRDPhit
