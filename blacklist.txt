@@ -1920,3 +1920,4 @@
 141.98.81.231;honeypotRDPhit
 185.200.118.55;honeypotRDPhit
 84.201.152.163;honeypotRDPhit
+84.201.169.234;honeypotRDPhit
