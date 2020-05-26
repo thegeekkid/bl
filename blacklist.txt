@@ -1714,3 +1714,4 @@
 84.201.150.178;honeypotRDPhit
 84.201.150.188;honeypotRDPhit
 84.201.157.105;honeypotRDPhit
+84.201.142.55;honeypotRDPhit
