@@ -1966,3 +1966,4 @@
 193.214.68.74;honeypotRDPhit
 86.34.153.10;honeypotRDPhit
 84.201.130.46;honeypotRDPhit
+84.201.132.117;honeypotRDPhit
