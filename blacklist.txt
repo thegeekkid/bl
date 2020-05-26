@@ -1977,3 +1977,4 @@
 111.229.85.143;honeypotRDPhit
 171.240.194.130;honeypotRDPhit
 162.243.135.71;honeypotVNChit
+130.193.35.54;honeypotRDPhit
