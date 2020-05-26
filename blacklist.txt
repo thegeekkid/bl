@@ -1837,3 +1837,4 @@
 150.95.89.234;honeypotRDPhit
 207.180.238.101;honeypotRDPhit
 136.232.174.38;honeypotRDPhit
+194.61.27.246;honeypotRDPhit
