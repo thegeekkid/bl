@@ -1941,3 +1941,4 @@
 209.141.35.232;honeypotRDPhit
 47.75.106.192;honeypotRDPhit
 84.201.138.51;honeypotRDPhit
+84.201.149.96;honeypotRDPhit
