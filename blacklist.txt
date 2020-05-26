@@ -1946,3 +1946,4 @@
 185.209.0.15;honeypotRDPhit
 84.201.180.120;honeypotRDPhit
 84.201.147.150;honeypotRDPhit
+50.77.188.225;honeypotRDPhit
