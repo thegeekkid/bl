@@ -2002,3 +2002,4 @@
 184.105.247.200;honeypotVNChit
 130.193.38.172;honeypotRDPhit
 163.27.161.76;honeypotVNChit
+195.54.167.113;honeypotVNChit
