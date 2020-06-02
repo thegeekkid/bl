@@ -2015,3 +2015,4 @@
 195.54.161.46;honeypotVNChit
 115.233.218.203;honeypotVNChit
 184.105.247.227;honeypotVNChit
+77.40.28.17;Other: Password_spraying
