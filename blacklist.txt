@@ -2024,3 +2024,4 @@
 147.30.163.236;Other: Password_spraying
 102.41.20.224;Other: Password_spraying
 2001:e68:5082:ab2c:12be:f5ff:fe29:d1f8;Other: Password_spraying
+2001:e68:5040:5248:12be:f5ff:fe2f:b8e0;Other: Password_spraying
