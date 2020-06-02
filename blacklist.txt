@@ -2018,3 +2018,4 @@
 77.40.28.17;Other: Password_spraying
 162.243.136.158;honeypotVNChit
 184.154.74.68;honeypotVNChit
+212.21.150.104;Other: Password_spraying
