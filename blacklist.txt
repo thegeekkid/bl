@@ -2027,3 +2027,4 @@
 2001:e68:5040:5248:12be:f5ff:fe2f:b8e0;Other: Password_spraying
 184.105.139.94;honeypotVNChit
 60.249.179.161;cyberterrorist_connection
+191.252.193.79;cyberterrorist_connection
