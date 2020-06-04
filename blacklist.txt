@@ -2028,3 +2028,4 @@
 184.105.139.94;honeypotVNChit
 60.249.179.161;cyberterrorist_connection
 191.252.193.79;cyberterrorist_connection
+78.157.40.134;cyberterrorist_connection
