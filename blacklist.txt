@@ -2049,3 +2049,4 @@
 162.243.139.98;honeypotVNChit
 183.83.130.145;honeypotVNChit
 150.242.97.109;honeypotVNChit
+193.35.50.251;Other: Malware_host
