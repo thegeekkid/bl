@@ -2051,3 +2051,4 @@
 150.242.97.109;honeypotVNChit
 193.35.50.251;Other: Malware_host
 103.79.141.135;honeypotVNChit
+5.79.109.48;Other: Password_spraying
