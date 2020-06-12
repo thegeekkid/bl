@@ -2069,3 +2069,4 @@
 213.217.0.101;honeypotVNChit
 192.35.169.31;honeypotVNChit
 180.246.101.53;Multiple_bruteforce_attempts
+92.118.161.1;cyberterrorist_connection
