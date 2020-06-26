@@ -2116,3 +2116,4 @@
 118.173.22.23;Other: Password_spraying
 192.35.168.160;honeypotVNChit
 103.133.111.228;honeypotVNChit
+192.241.236.171;honeypotVNChit
