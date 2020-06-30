@@ -2134,3 +2134,4 @@
 115.134.252.178;Other: Password_spraying
 175.143.224.174;Other: Password_spraying
 51.83.200.164;honeypotVNChit
+71.6.231.83;honeypotVNChit
