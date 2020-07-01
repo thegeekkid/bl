@@ -2143,3 +2143,4 @@
 213.177.107.170;Other: Password_spraying
 46.101.146.208;cyberterrorist_connection
 193.174.89.19;cyberterrorist_connection
+52.169.29.117;cyberterrorist_connection
