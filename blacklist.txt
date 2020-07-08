@@ -2192,3 +2192,4 @@
 88.2.24.50;Other: Password_Spraying
 51.144.47.7;honeypotVNChit
 80.82.64.210;honeypotVNChit
+5.189.157.168;honeypotVNChit
