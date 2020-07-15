@@ -2211,3 +2211,4 @@
 192.35.169.16;honeypotVNChit
 61.147.103.151;honeypotVNChit
 45.145.66.93;honeypotVNChit
+45.141.84.57;honeypotVNChit
