@@ -2224,3 +2224,4 @@
 192.35.168.108;honeypotVNChit
 129.226.154.67;honeypotVNChit
 192.241.220.108;honeypotVNChit
+71.6.232.2;honeypotVNChit
