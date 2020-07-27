@@ -2242,3 +2242,4 @@
 193.27.229.94;honeypotVNChit
 192.241.238.210;honeypotVNChit
 192.35.168.164;honeypotVNChit
+14.37.18.148;honeypotTelnetHit
