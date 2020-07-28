@@ -2255,3 +2255,4 @@
 192.35.168.197;honeypotVNChit
 192.35.169.27;honeypotVNChit
 192.236.195.195;Other: Ransomware_IOC
+94.102.51.28;honeypotVNChit
