@@ -2277,3 +2277,4 @@
 161.97.97.15;honeypotVNChit
 206.189.237.114;honeypotVNChit
 106.12.8.39;Other: malware_connection
+185.143.221.217;Other: malware_connection
