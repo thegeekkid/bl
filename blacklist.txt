@@ -2279,3 +2279,4 @@
 106.12.8.39;Other: malware_connection
 185.143.221.217;Other: malware_connection
 62.173.145.14;Other: malware_connection
+192.36.52.37;cyberterrorist_connection
