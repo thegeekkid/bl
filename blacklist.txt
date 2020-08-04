@@ -2303,3 +2303,4 @@
 217.173.202.37;Other: password_spraying_attempt
 60.217.72.12;cyberterrorist_connection
 195.54.166.89;cyberterrorist_connection
+193.118.53.202;cyberterrorist_connection
