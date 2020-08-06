@@ -2318,3 +2318,4 @@
 123.201.19.116;Other: password_spraying_attempt
 192.35.168.202;honeypotVNChit
 192.35.168.220;honeypotVNChit
+192.241.216.129;honeypotVNChit
