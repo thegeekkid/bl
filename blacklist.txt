@@ -2317,3 +2317,4 @@
 109.162.243.235;Other: password_spraying_attempt
 123.201.19.116;Other: password_spraying_attempt
 192.35.168.202;honeypotVNChit
+192.35.168.220;honeypotVNChit
