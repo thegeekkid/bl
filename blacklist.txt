@@ -2338,3 +2338,4 @@
 103.145.12.120;cyberterrorist_connection
 185.142.236.43;cyberterrorist_connection
 179.60.92.252;cyberterrorist_connection
+46.165.160.110;Other: password_spraying_attempt
