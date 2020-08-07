@@ -2341,3 +2341,4 @@
 46.165.160.110;Other: password_spraying_attempt
 180.71.160.205;Other: password_spraying_attempt
 64.225.118.216;honeypotVNChit
+195.54.160.68;cyberterrorist_connection
