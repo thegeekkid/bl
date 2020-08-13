@@ -2355,3 +2355,4 @@
 64.227.94.25;honeypotVNChit
 5.9.51.227;Other: malwareIP-Emotet
 46.4.79.183;Other: malwareIP-Emotet
+66.96.147.160;Other: malwareIP-Emotet
