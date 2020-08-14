@@ -2370,3 +2370,4 @@
 216.218.206.81;honeypotVNChit
 207.144.103.227;Other: malwareIP-Emotet
 94.76.247.61;Other: malwareIP-Emotet
+213.176.36.147;Other: malwareIP-Emotet
