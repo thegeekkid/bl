@@ -2410,3 +2410,4 @@
 189.2.177.210;Other: Malware_IP-emotet
 45.33.77.42;Other: Malware_IP-emotet
 95.85.151.205;Other: Malware_IP-emotet
+189.194.58.119;Other: Malware_IP-emotet
