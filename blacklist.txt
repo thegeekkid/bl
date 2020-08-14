@@ -2428,3 +2428,4 @@
 212.231.60.98;Other: Malware_IP-emotet
 212.71.237.140;Other: Malware_IP-emotet
 190.163.31.26;Other: Malware_IP-emotet
+87.106.46.107;Other: Malware_IP-emotet
