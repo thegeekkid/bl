@@ -2439,3 +2439,4 @@
 201.171.150.41;Other: Malware_IP-emotet
 186.70.127.199;Other: Malware_IP-emotet
 51.255.165.160;Other: Malware_IP-emotet
+188.2.217.94;Other: Malware_IP-emotet
