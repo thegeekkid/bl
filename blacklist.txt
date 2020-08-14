@@ -2430,3 +2430,4 @@
 190.163.31.26;Other: Malware_IP-emotet
 87.106.46.107;Other: Malware_IP-emotet
 94.176.234.118;Other: Malware_IP-emotet
+190.147.137.153;Other: Malware_IP-emotet
