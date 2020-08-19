@@ -2482,3 +2482,4 @@
 185.220.101.5;cyberterrorist_connection
 172.105.48.241;cyberterrorist_connection
 47.74.190.93;Other: Credential_stuffing
+89.44.128.115;Other: Credential_stuffing
