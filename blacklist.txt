@@ -2463,3 +2463,4 @@
 68.235.48.108;Other: Malware_IOC
 216.155.94.51;honeypotVNChit
 45.129.33.17;honeypotVNChit
+51.195.44.95;honeypotVNChit
