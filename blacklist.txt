@@ -2501,3 +2501,4 @@
 162.142.125.9;honeypotVNChit
 62.210.214.15;honeypotVNChit
 192.241.221.104;honeypotVNChit
+46.42.246.80;honeypotVNChit
