@@ -3509,3 +3509,4 @@
 95.217.41.14;Emerging_Threats_Compromised_IP_list
 98.29.248.76;Emerging_Threats_Compromised_IP_list
 50.235.154.186;honeypotVNChit
+167.248.133.25;honeypotVNChit
