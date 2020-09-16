@@ -3633,3 +3633,4 @@
 173.230.153.184;honeypotVNChit
 196.41.43.186;honeypotVNChit
 107.6.183.227;honeypotVNChit
+52.60.79.15;honeypotVNChit
