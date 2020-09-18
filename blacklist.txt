@@ -2554,7 +2554,6 @@
 111.77.205.81;Emerging_Threats_Compromised_IP_list
 112.119.28.92;Emerging_Threats_Compromised_IP_list
 113.247.226.163;Emerging_Threats_Compromised_IP_list
-
 115.76.160.105;Emerging_Threats_Compromised_IP_list
 115.76.170.233;Emerging_Threats_Compromised_IP_list
 115.76.171.173;Emerging_Threats_Compromised_IP_list
@@ -2592,7 +2591,6 @@
 144.91.83.234;Emerging_Threats_Compromised_IP_list
 145.239.82.87;Emerging_Threats_Compromised_IP_list
 145.239.92.26;Emerging_Threats_Compromised_IP_list
-
 149.34.6.172;Emerging_Threats_Compromised_IP_list
 149.56.99.85;Emerging_Threats_Compromised_IP_list
 151.237.185.110;Emerging_Threats_Compromised_IP_list
@@ -2632,11 +2630,9 @@
 166.70.207.2;Emerging_Threats_Compromised_IP_list
 167.172.152.175;Emerging_Threats_Compromised_IP_list
 167.172.152.54;Emerging_Threats_Compromised_IP_list
-
 167.71.0.228;Emerging_Threats_Compromised_IP_list
 167.71.139.83;Emerging_Threats_Compromised_IP_list
 167.71.3.160;Emerging_Threats_Compromised_IP_list
-
 167.99.237.148;Emerging_Threats_Compromised_IP_list
 167.99.239.69;Emerging_Threats_Compromised_IP_list
 171.226.1.221;Emerging_Threats_Compromised_IP_list
@@ -2672,7 +2668,6 @@
 178.62.231.130;Emerging_Threats_Compromised_IP_list
 178.62.233.156;Emerging_Threats_Compromised_IP_list
 178.62.238.152;Emerging_Threats_Compromised_IP_list
-
 18.18.248.17;Emerging_Threats_Compromised_IP_list
 183.134.92.76;Emerging_Threats_Compromised_IP_list
 185.100.86.154;Emerging_Threats_Compromised_IP_list
@@ -2695,7 +2690,6 @@
 185.165.168.229;Emerging_Threats_Compromised_IP_list
 185.170.114.25;Emerging_Threats_Compromised_IP_list
 185.191.126.212;Emerging_Threats_Compromised_IP_list
-
 185.191.126.242;Emerging_Threats_Compromised_IP_list
 185.193.125.21;Emerging_Threats_Compromised_IP_list
 185.213.155.169;Emerging_Threats_Compromised_IP_list
@@ -2780,7 +2774,6 @@
 193.218.118.140;Emerging_Threats_Compromised_IP_list
 193.228.91.108;Emerging_Threats_Compromised_IP_list
 193.228.91.109;Emerging_Threats_Compromised_IP_list
-
 193.239.147.66;Emerging_Threats_Compromised_IP_list
 193.239.232.101;Emerging_Threats_Compromised_IP_list
 193.32.126.162;Emerging_Threats_Compromised_IP_list
@@ -2790,7 +2783,6 @@
 194.61.26.117;Emerging_Threats_Compromised_IP_list
 194.87.138.103;Emerging_Threats_Compromised_IP_list
 194.87.138.106;Emerging_Threats_Compromised_IP_list
-
 194.87.138.44;Emerging_Threats_Compromised_IP_list
 195.144.21.219;Emerging_Threats_Compromised_IP_list
 195.154.179.3;Emerging_Threats_Compromised_IP_list
@@ -2798,7 +2790,6 @@
 195.206.107.147;Emerging_Threats_Compromised_IP_list
 195.254.135.76;Emerging_Threats_Compromised_IP_list
 195.80.151.30;Emerging_Threats_Compromised_IP_list
-
 198.144.120.222;Emerging_Threats_Compromised_IP_list
 198.144.120.223;Emerging_Threats_Compromised_IP_list
 198.144.120.224;Emerging_Threats_Compromised_IP_list
@@ -2830,7 +2821,6 @@
 207.180.227.177;Emerging_Threats_Compromised_IP_list
 207.244.70.35;Emerging_Threats_Compromised_IP_list
 208.68.7.129;Emerging_Threats_Compromised_IP_list
-
 209.141.38.43;Emerging_Threats_Compromised_IP_list
 209.141.41.103;Emerging_Threats_Compromised_IP_list
 209.141.45.189;Emerging_Threats_Compromised_IP_list
@@ -2850,7 +2840,6 @@
 217.170.206.146;Emerging_Threats_Compromised_IP_list
 217.170.206.192;Emerging_Threats_Compromised_IP_list
 217.182.192.217;Emerging_Threats_Compromised_IP_list
-
 222.141.207.246;Emerging_Threats_Compromised_IP_list
 222.186.61.191;Emerging_Threats_Compromised_IP_list
 23.129.64.100;Emerging_Threats_Compromised_IP_list
@@ -2865,7 +2854,6 @@
 23.129.64.192;Emerging_Threats_Compromised_IP_list
 23.129.64.193;Emerging_Threats_Compromised_IP_list
 23.129.64.197;Emerging_Threats_Compromised_IP_list
-
 23.129.64.201;Emerging_Threats_Compromised_IP_list
 23.129.64.202;Emerging_Threats_Compromised_IP_list
 23.129.64.203;Emerging_Threats_Compromised_IP_list
@@ -2892,13 +2880,10 @@
 31.220.3.107;Emerging_Threats_Compromised_IP_list
 34.92.70.232;Emerging_Threats_Compromised_IP_list
 35.0.127.52;Emerging_Threats_Compromised_IP_list
-
 35.225.51.42;Emerging_Threats_Compromised_IP_list
 37.49.224.25;Emerging_Threats_Compromised_IP_list
 38.81.163.45;Emerging_Threats_Compromised_IP_list
 41.72.197.182;Emerging_Threats_Compromised_IP_list
-
-
 45.125.65.112;Emerging_Threats_Compromised_IP_list
 45.125.65.118;Emerging_Threats_Compromised_IP_list
 45.129.183.70;Emerging_Threats_Compromised_IP_list
@@ -2923,7 +2908,6 @@
 45.95.168.190;Emerging_Threats_Compromised_IP_list
 45.95.168.201;Emerging_Threats_Compromised_IP_list
 45.95.168.89;Emerging_Threats_Compromised_IP_list
-
 46.182.21.251;Emerging_Threats_Compromised_IP_list
 46.249.59.113;Emerging_Threats_Compromised_IP_list
 46.59.65.88;Emerging_Threats_Compromised_IP_list
@@ -2985,11 +2969,9 @@
 68.183.70.184;Emerging_Threats_Compromised_IP_list
 77.247.181.163;Emerging_Threats_Compromised_IP_list
 77.247.181.165;Emerging_Threats_Compromised_IP_list
-
 79.137.79.167;Emerging_Threats_Compromised_IP_list
 80.67.172.162;Emerging_Threats_Compromised_IP_list
 80.82.65.246;Emerging_Threats_Compromised_IP_list
-
 81.171.29.146;Emerging_Threats_Compromised_IP_list
 81.199.120.20;Emerging_Threats_Compromised_IP_list
 82.221.128.191;Emerging_Threats_Compromised_IP_list
@@ -3000,7 +2982,6 @@
 83.97.20.101;Emerging_Threats_Compromised_IP_list
 83.97.20.245;Emerging_Threats_Compromised_IP_list
 83.97.20.248;Emerging_Threats_Compromised_IP_list
-
 85.206.165.112;Emerging_Threats_Compromised_IP_list
 85.75.36.145;Emerging_Threats_Compromised_IP_list
 86.86.41.22;Emerging_Threats_Compromised_IP_list
@@ -3189,7 +3170,6 @@
 107.189.11.54;Emerging_Threats_Compromised_IP_list
 115.79.252.15;Emerging_Threats_Compromised_IP_list
 116.153.32.211;Emerging_Threats_Compromised_IP_list
-
 128.199.233.234;Emerging_Threats_Compromised_IP_list
 134.122.104.10;Emerging_Threats_Compromised_IP_list
 134.122.124.10;Emerging_Threats_Compromised_IP_list
@@ -3554,7 +3534,6 @@
 45.153.203.33;Emerging_Threats_Compromised_IP_list
 51.124.89.203;Emerging_Threats_Compromised_IP_list
 51.68.11.211;Emerging_Threats_Compromised_IP_list
-
 52.165.225.161;Emerging_Threats_Compromised_IP_list
 52.167.159.139;Emerging_Threats_Compromised_IP_list
 52.186.167.96;Emerging_Threats_Compromised_IP_list
