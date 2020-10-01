@@ -3799,3 +3799,4 @@
 216.218.206.82;honeypotVNChit
 212.122.94.219;honeypotVNChit
 167.248.133.23;honeypotVNChit
+178.79.128.152;honeypotVNChit
