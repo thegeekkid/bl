@@ -3821,3 +3821,4 @@
 170.106.76.105;honeypotVNChit
 74.82.47.36;honeypotVNChit
 162.142.125.16;honeypotVNChit
+192.35.169.25;honeypotTelnetHit
