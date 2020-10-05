@@ -3822,3 +3822,4 @@
 74.82.47.36;honeypotVNChit
 162.142.125.16;honeypotVNChit
 192.35.169.25;honeypotTelnetHit
+162.142.125.22;honeypotVNChit
