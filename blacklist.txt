@@ -3694,3 +3694,4 @@
 94.23.28.113;Emerging_Threats_Compromised_IP_list
 95.179.209.59;Emerging_Threats_Compromised_IP_list
 149.129.68.143;honeypotVNChit
+178.128.163.96;honeypotVNChit
