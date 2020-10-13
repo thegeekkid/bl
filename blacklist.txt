@@ -3758,3 +3758,4 @@
 67.249.38.160;Emerging_Threats_Compromised_IP_list
 178.62.233.90;honeypotVNChit
 45.146.165.160;honeypotVNChit
+185.153.199.252;honeypotVNChit
