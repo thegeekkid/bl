@@ -3723,3 +3723,4 @@
 192.241.239.192;honeypotVNChit
 212.71.233.179;honeypotVNChit
 167.71.76.254;honeypotVNChit
+162.142.125.30;honeypotVNChit
