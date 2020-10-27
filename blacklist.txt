@@ -3778,3 +3778,4 @@
 192.35.168.23;honeypotVNChit
 74.120.14.23;honeypotFTPhit
 167.172.61.172;honeypotVNChit
+74.82.47.19;honeypotVNChit
