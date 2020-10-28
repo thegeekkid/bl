@@ -3672,3 +3672,4 @@
 46.101.135.250;Emerging_Threats_Compromised_IP_list
 51.15.107.220;Emerging_Threats_Compromised_IP_list
 64.225.69.64;Emerging_Threats_Compromised_IP_list
+170.130.55.17;honeypotVNChit
