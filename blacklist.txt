@@ -9093,3 +9093,4 @@
 97.64.122.66;Emerging_Threats_Compromised_IP_list
 193.57.40.31;honeypotVNChit
 192.35.168.186;honeypotVNChit
+119.45.231.51;honeypotVNChit
