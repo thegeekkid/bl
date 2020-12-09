@@ -9809,3 +9809,4 @@
 36.99.113.60;honeypotVNChit
 192.241.227.237;honeypotVNChit
 35.186.151.74;honeypotVNChit
+139.180.137.104;honeypotVNChit
