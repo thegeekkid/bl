@@ -8098,3 +8098,4 @@
 96.77.231.29;Emerging_Threats_Compromised_IP_list
 192.35.168.73;honeypotVNChit
 185.216.140.146;honeypotVNChit
+36.67.188.83;honeypotVNChit
