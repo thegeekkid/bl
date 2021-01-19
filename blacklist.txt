@@ -8079,3 +8079,4 @@
 159.89.174.219;honeypotVNChit
 112.53.175.9;honeypotVNChit
 45.31.39.70;honeypotVNChit
+194.147.140.6;honeypotVNChit
