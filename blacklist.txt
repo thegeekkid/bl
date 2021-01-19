@@ -8070,3 +8070,4 @@
 104.248.53.155;honeypotVNChit
 194.147.140.93;honeypotVNChit
 192.35.168.116;honeypotVNChit
+194.147.140.77;honeypotVNChit
