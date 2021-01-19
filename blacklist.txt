@@ -8065,3 +8065,4 @@
 45.129.33.189;honeypotVNChit
 69.30.223.2;honeypotVNChit
 103.125.191.134;honeypotVNChit
+23.247.22.68;honeypotVNChit
