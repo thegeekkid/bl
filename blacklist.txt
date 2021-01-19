@@ -8063,3 +8063,4 @@
 99.195.43.114;Emerging_Threats_Compromised_IP_list
 99.195.85.179;Emerging_Threats_Compromised_IP_list
 45.129.33.189;honeypotVNChit
+69.30.223.2;honeypotVNChit
