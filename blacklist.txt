@@ -10970,3 +10970,4 @@
 99.195.94.206;Emerging_Threats_Compromised_IP_list
 99.195.95.147;Emerging_Threats_Compromised_IP_list
 108.163.220.5;honeypotVNChit
+167.99.34.87;honeypotVNChit
